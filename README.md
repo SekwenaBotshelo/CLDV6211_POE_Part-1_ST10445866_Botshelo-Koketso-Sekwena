@@ -17,5 +17,8 @@ basics. Retrieved from Microsoft 365:
 https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description
 
 OpenAI. (2025, April 7). OpenAI. Retrieved from OpenAI: https://chatgpt.com
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 3e0d278964c13f44ae79a238d2a82bc26eda1310
